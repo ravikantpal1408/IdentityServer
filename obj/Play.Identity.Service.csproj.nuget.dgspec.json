@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Volumes/MyDrive/TUTORIALS/Building Microservices with .NET - Security and Identity/05 Authorization in Microservices/028 source_code/Play.Identity/src/Play.Identity.Service/Play.Identity.Service.csproj": {}
+    "/Volumes/MyDrive/WORK/Play.Identity.Service/Play.Identity.Service.csproj": {}
   },
   "projects": {
-    "/Volumes/MyDrive/TUTORIALS/Building Microservices with .NET - Security and Identity/05 Authorization in Microservices/028 source_code/Play.Identity/src/Play.Identity.Service/Play.Identity.Service.csproj": {
+    "/Volumes/MyDrive/WORK/Play.Identity.Service/Play.Identity.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Volumes/MyDrive/TUTORIALS/Building Microservices with .NET - Security and Identity/05 Authorization in Microservices/028 source_code/Play.Identity/src/Play.Identity.Service/Play.Identity.Service.csproj",
+        "projectUniqueName": "/Volumes/MyDrive/WORK/Play.Identity.Service/Play.Identity.Service.csproj",
         "projectName": "Play.Identity.Service",
-        "projectPath": "/Volumes/MyDrive/TUTORIALS/Building Microservices with .NET - Security and Identity/05 Authorization in Microservices/028 source_code/Play.Identity/src/Play.Identity.Service/Play.Identity.Service.csproj",
+        "projectPath": "/Volumes/MyDrive/WORK/Play.Identity.Service/Play.Identity.Service.csproj",
         "packagesPath": "/Users/ravi/.nuget/packages/",
-        "outputPath": "/Volumes/MyDrive/TUTORIALS/Building Microservices with .NET - Security and Identity/05 Authorization in Microservices/028 source_code/Play.Identity/src/Play.Identity.Service/obj/",
+        "outputPath": "/Volumes/MyDrive/WORK/Play.Identity.Service/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ravi/.nuget/NuGet/NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KFPUUwr38vQUB6L3QmYvoj44ceHyBPwGRnsbeD0sBD9Qgygess6lFHKfd7ngsXu2BjZAGTMax5urq3QgeIKjcA==",
+  "dgSpecHash": "L7KqHEd2UB+whTNeGZs0A2tPHwxoIc6D/XMejgpDK4D8VUIpMdUTlBhHcGUTrVgfaXZppZeUlEK5gTF7Ak0AoA==",
   "success": true,
-  "projectFilePath": "/Volumes/MyDrive/TUTORIALS/Building Microservices with .NET - Security and Identity/05 Authorization in Microservices/028 source_code/Play.Identity/src/Play.Identity.Service/Play.Identity.Service.csproj",
+  "projectFilePath": "/Volumes/MyDrive/WORK/Play.Identity.Service/Play.Identity.Service.csproj",
   "expectedPackageFiles": [
     "/Users/ravi/.nuget/packages/aspnetcore.identity.mongodbcore/3.1.1/aspnetcore.identity.mongodbcore.3.1.1.nupkg.sha512",
     "/Users/ravi/.nuget/packages/automatonymous/5.1.1/automatonymous.5.1.1.nupkg.sha512",
